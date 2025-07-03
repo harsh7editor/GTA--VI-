@@ -17,7 +17,7 @@ A **visually rich, scroll-driven cinematic website clone** of GTA VI, built with
 ## 🌐 Live Demo
 
 🚀 Check out the live version:  
-**[https://gta6-clone.netlify.app](https://gta6-clone.netlify.app)**  
+**[https://gta6-clone.netlify.app](https://vercel.com/harshkori389-gmailcoms-projects/gta-vi/DLLoBqMC5TyUTmydC3nCtQj7yvD1)**  
 _(Replace with your actual deployment link)_
 
 ---
